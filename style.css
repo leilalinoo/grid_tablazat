@@ -2,6 +2,8 @@ body{
     margin: 0;
     padding: 0;
     background-image: url("kepek/hatter.jpg");
+    background-attachment: fixed;
+    background-size: cover;
 }
 *{
     box-sizing: border-box;
